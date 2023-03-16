@@ -180,6 +180,6 @@ body {
   color: var(--clr-primary-400);
 }
 
-.product__original-price {
-
+.attribution {
+  padding-top: 10px;
 }
